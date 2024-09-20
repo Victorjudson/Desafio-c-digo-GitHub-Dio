@@ -1,0 +1,38 @@
+Configuração Inicial Do GIT:
+
+git config --global user.name "Seu Nome": Configura o nome do usuário.
+git config --global user.email "seuemail@exemplo.com": Configura o email do usuário.
+Clonar Repositório:
+
+git clone <url>: Clona um repositório remoto.
+Status:
+
+git status: Verifica o status dos arquivos no repositório.
+Adicionar Arquivos:
+
+git add <arquivo>: Adiciona um arquivo específico.
+git add .: Adiciona todos os arquivos modificados.
+Comitar Mudanças:
+
+git commit -m "mensagem do commit": Cria um commit com uma mensagem descritiva.
+Ver Log de Commits:
+
+git log: Exibe o histórico de commits.
+Enviar Alterações:
+
+git push origin <branch>: Envia as mudanças para o repositório remoto.
+Atualizar Repositório:
+
+git pull: Atualiza o repositório local com as mudanças remotas.
+Criar uma Branch:
+
+git branch <nome-da-branch>: Cria uma nova branch.
+Mudar de Branch:
+
+git checkout <nome-da-branch>: Troca para uma branch específica.
+Mesclar Branches:
+
+git merge <nome-da-branch>: Mescla uma branch com a atual.
+Excluir uma Branch:
+
+git branch -d <nome-da-branch>: Deleta uma branch local.
